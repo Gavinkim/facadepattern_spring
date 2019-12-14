@@ -1,6 +1,6 @@
 # Getting Started
 
-### Guides
+### Tutorial
 <pre>
 - Using Facade Pattern in Spring framework 
 
