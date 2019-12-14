@@ -7,5 +7,7 @@
                                           ㅣ - CouponService
 PaymentCommonService -> [PaymentService] -ㅣ
                                           ㅣ - CardService
+
+- interface based on JPA projection                                           
 </pre>
 
